@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: '[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기'
 layout: post
 ---

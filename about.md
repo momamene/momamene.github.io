@@ -4,14 +4,22 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+[Educast](https://educast.pro)를 개발하고 있습니다.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Web / iOS App 개발을 주로 하고 있으며 최근 딥러닝, 자연어처리에 관심을 갖고 있습니다.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+고양이를 한 마리 키우고 있습니다.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* 이름 : 오레오
+* 나이 : 불명(5살 이상)
+* 종   : 코리안 숏헤어, 턱시도
+* ~~성별 : 여~~ 중성화 완료
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+일본 아이돌 덬질하고 있습니다. 
+  
+* ~~モーニング娘。~~
+* AKB48
+* 乃木坂46
+* でんぱ組inc.
+* チームしゃちほこ
+* 小池美由
