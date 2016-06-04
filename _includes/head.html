@@ -44,6 +44,23 @@
       }
     });
   </script>
+  <script type="text/x-mathjax-config;executed=true">
+   MathJax.Hub.Config({
+       skipStartupTypeset: true,
+       showProcessingMessages: false,
+       tex2jax: {
+           inlineMath: [['$', '$']],
+           displayMath: [['$$', '$$']],
+           processEscapes: true,
+           processEnvironments: false,
+           processRefs: false,
+           skipTags: ['script','noscript','style', 'textarea','pre','code',
+                      'a','h1','h2','h3','h4','h5','h6']
+       }
+   })
+  </script>
+  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
   <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | prepend: site.baseurl }}" type="image/png"/>
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">

@@ -14,8 +14,8 @@ logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/header.png"
 
-name: 'momamene'
-author: momamene'
+name: "momamene"
+author: momamene
 author_image: "/assets/images/author.png"
 
 paginate: 5
