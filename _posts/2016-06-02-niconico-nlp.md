@@ -297,7 +297,7 @@ $$ L=\frac{1}{2N}\left(\sum_{n=1})N y_n d_n^2+(1-y_n)\max({\rm margin}-d_n, 0)^2
 ### 사례 2 : CIFAT-10에서의 예
 
 MNIST와 함께 단골로 사용되는 [CIFAT-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)에서도 해 봅시다.  
-이것은 10종류(airplane/automobile/bird/cat/deer/dog/frog/horse/ship/truck)의 사진이 각각 라벨이 붙여져 있는 6000장의 데이터셋입니다.
+이것은 10종류(airplane/automobile/bird/cat/deer/dog/frog/horse/ship/truck)의 라벨이 붙여져 있는 6000장의 사진 데이터셋입니다.
 
 ![](https://qiita-image-store.s3.amazonaws.com/0/8954/83650abc-265c-11a3-1d94-7325201ca0dd.png)
 
