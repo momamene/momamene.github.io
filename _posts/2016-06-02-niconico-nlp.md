@@ -276,7 +276,7 @@ contrastive loss는 y_n이 1(동일한 클래스)이라면 벡터간의 거리�
 이 loss function은 다음과 같이 되어 있습니다.
 
 <DIV>
-$$ L=\frac{1}{2N}\left(\sum_{n=1})N y_n d_n^2+(1-y_n)\max({\rm margin}-d_n, 0)^2\right) $$
+$$ L=\frac{1}{2N}\left(\sum_{n=1}^{N} y_n d_n^2+(1-y_n)\max({\rm margin}-d_n, 0)^2\right) $$
 </DIV>
 
 일반적으로 N클래스 분류의 문제는 출력층을 N차원으로 하여 이것에 [softmax cross entropy](http://chainer.readthedocs.org/en/stable/reference/functions.html#chainer.functions.softmax_cross_entropy)를 적용하여 입력에 대하여 「어느 클래스에 가장 가까운가」를 예측하는 방식으로 학습합니다. 이것은 처음 클래스의 갯수를 알고 있음을 전제하는 모델입니다.  
