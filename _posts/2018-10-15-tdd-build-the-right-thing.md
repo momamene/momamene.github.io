@@ -1,6 +1,6 @@
 ---
 published: true
-title: '이규원님의 TDD 참관후기 + 주인석님의 Build the RIGHT thing 시청 후기'
+title: '이규원님의 TDD 참관후기'
 layout: post
 ---
 
