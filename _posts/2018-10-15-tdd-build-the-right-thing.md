@@ -1,6 +1,6 @@
 ---
 published: true
-title: '이규원님의 TDD 참관후기'
+title: 'TDD 참관후기'
 layout: post
 ---
 
